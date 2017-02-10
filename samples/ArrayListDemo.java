@@ -5,7 +5,7 @@ package samples;
 import java.util.ArrayList;
 
 /*
- * Author: Charlie
+ * Author: Charlie2
  * ArrayListDemo: Week 4 - Intro to Array, ArrayList
  */
 public class ArrayListDemo {
